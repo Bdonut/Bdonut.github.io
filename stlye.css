@@ -1,0 +1,46 @@
+.landing {
+  background: rgb(122, 101, 228);
+  background: linear-gradient(
+    45deg,
+    rgba(122, 101, 228, 1) 25%,
+    rgba(7, 58, 150, 1) 70%
+  );
+  color: white;
+  padding: 20em;
+  justify-content: center;
+}
+.landing h1 {
+  font-family: "Tomorrow", sans-serif;
+  font-size: 150px;
+}
+.landing h2 {
+  font-family: "Source Code Pro", monospace;
+
+  font-size: 70px;
+}
+.landing button {
+  font-family: "Source Code Pro", monospace;
+  padding: 1em;
+  font-size: 30px;
+}
+.solutions h1{
+    font-family: 'Source Code Pro', monospace;
+}
+.solutions p{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+.solutions {
+    object-position: right top;}
+.offering {
+  background: rgb(122, 101, 228);
+  background: linear-gradient(
+    45deg,
+    rgba(122, 101, 228, 1) 25%,
+    rgba(7, 58, 150, 1) 70%
+  );
+  color: white;
+  font-family: "Tomorrow", sans-serif;
+  justify-content: center;
+  padding: 20em;
+}
